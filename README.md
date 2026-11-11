@@ -18,4 +18,17 @@ Já os guardrails são uma espécie de “regras de conduta” programadas em si
 6.Futuro da inteligência artificial A IA está crescendo muito rápido e vai influenciar cada vez mais áreas como saúde (ajudando em diagnósticos), educação (personalizando o aprendizado) e trabalho (automatizando tarefas repetitivas). Isso pode trazer muitos benefícios, mas também exige cuidado.
 O ponto principal é que precisamos usar uma IA de forma consciente, sempre verificando se ela está sendo justa, segura e acessível para todas as pessoas. Não adianta a tecnologia avançar se ela não for usada de maneira responsável. O futuro da IA ​​depende menos da tecnologia em si e mais das escolhas que nós, humanos, fazemos com ela.
 
-Conclusão: De forma resumida, a IA aprende com os dados que recebe — e por isso a qualidade e a variedade desses dados são tão importantes. Se os dados estiverem em ruínas ou tendenciosos, a IA pode reproduzir viés; se forem decorados demais, acontece o overfitting e ela não generaliza bem. Os algoritmos de recomendação também mostram esse lado: ajudam a encontrar conteúdos, mas podem nos prender em bolhas digitais. Por isso, privacidade, segurança e guarda-corpos são essenciais. No fim, o futuro da IA ​​depende menos da tecnologia em si e mais do uso consciente e responsável que nós, humanos, fazemos dela.
+7. Alucinação em Inteligência Artificial
+A alucinação ocorre quando a IA gera informações incorretas, inventadas ou sem fundamento factual, mas as apresenta de forma confiável e convincente.
+
+Por que acontece: Como os modelos de linguagem funcionam prevendo as palavras mais prováveis de uma frase (e não "pensando" como humanos), eles podem inventar dados, fontes ou fatos quando não encontram uma resposta precisa.
+
+Como mitigar: É essencial checar as informações em fontes confiáveis e implementar técnicas de validação no sistema.
+
+8.Transparência e Explicabilidade (IA Explicável)
+A explicabilidade refere-se à capacidade de entender como uma IA chegou a determinada resposta ou decisão. Muitas IAs avançadas funcionam como uma "caixa-preta", onde nem os próprios criadores conseguem rastrear o caminho exato que o sistema percorreu.
+
+Por que é importante: Em áreas críticas como medicina e concessão de crédito, é indispensável saber a justificativa do sistema para garantir justiça, identificar falhas e evitar decisões arbitrárias.
+
+Conclusão:
+A IA aprende com dados: a qualidade e a diversidade desse material evitam viés, overfitting e alucinações. Para que o uso da tecnologia seja seguro, é necessário contar com privacidade, guardrails e transparência na tomada de decisões. No fim, o impacto da IA depende do uso ético e responsável feito pelos humanos.
